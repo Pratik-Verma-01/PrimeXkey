@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeXKey</string>
+
+    <string name="google_app_id">1:817838529852:android:83f9653f2a726a44991239</string>
+    
+    <string name="google_api_key">AIzaSyBIglmSHf_sMePAQYyuIYe-8bmIoPnzNsE</string>
+    
+    <string name="project_id">primexkey</string>
+
+</resources>

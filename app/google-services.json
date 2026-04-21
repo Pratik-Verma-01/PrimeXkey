@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817838529852",
+    "firebase_url": "https://primexkey-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "primexkey",
+    "storage_bucket": "primexkey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817838529852:android:83f9653f2a726a44991239",
+        "android_client_info": {
+          "package_name": "com.primex.key"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817838529852-dr0ee8b4o4jso91m0kri73vgtfn11pel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIglmSHf_sMePAQYyuIYe-8bmIoPnzNsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817838529852-dr0ee8b4o4jso91m0kri73vgtfn11pel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

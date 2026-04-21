@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#131318</color>
+    <color name="glass_bg">#2635343A</color>
+    <color name="input_bg">#1A1F1F25</color>
+    <color name="on_surface">#E4E1E9</color>
+    <color name="outline">#988D9F</color>
+    <color name="outline_variant">#4D4354</color>
+    <color name="primary">#DDB7FF</color>
+    <color name="primary_container">#B76DFF</color>
+    <color name="secondary">#5DE6FF</color>
+    <color name="surface">#1B1B20</color>
+    <string name="app_name">PrimeXKey</string>
+    <string name="google_api_key">AIzaSyBIglmSHf_sMePAQYyuIYe-8bmIoPnzNsE</string>
+    <string name="google_app_id">1:817838529852:android:83f9653f2a726a44991239</string>
+    <string name="project_id">primexkey</string>
+    <style name="Theme.AppCompat.NoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/secondary</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+        
+        <item name="android:fontFamily">@font/manrope_family</item>
+    </style>
+</resources>

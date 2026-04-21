@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Prime_Keystore/app/src/main/java/com/primex/key/utils/JKSGenerator.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 2363,
+          "line": 63
+        },
+        "start": {
+          "column": 0,
+          "index": 2363,
+          "line": 63
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Prime_Keystore/app/src/main/java/com/primex/key/utils/JKSGenerator.java"
+}

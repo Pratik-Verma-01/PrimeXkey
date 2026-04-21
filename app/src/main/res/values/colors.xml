@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#131318</color>
+    <color name="surface">#1B1B20</color>
+    <color name="on_surface">#E4E1E9</color>
+    <color name="primary">#DDB7FF</color>
+    <color name="primary_container">#B76DFF</color>
+    <color name="secondary">#5DE6FF</color>
+    <color name="outline">#988D9F</color>
+    <color name="outline_variant">#4D4354</color>
+    <color name="glass_bg">#2635343A</color>
+    <color name="input_bg">#1A1F1F25</color>
+</resources>

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.primex.key.app-mergeReleaseResources-33:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/c1ab51470a7349ab3cc1357c4804783d/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/c1545f87283809295c6e8488e5e0cc10/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

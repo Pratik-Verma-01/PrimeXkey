@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Synthetic Identity"
+            android:textColor="@color/secondary"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Generate your encrypted credentials and establish your presence in the Prime X ecosystem."
+            android:textColor="@color/outline"
+            android:textSize="14sp"
+            android:layout_marginBottom="24dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CORPORATE EMAIL"
+            android:textColor="@color/outline"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <EditText
+            android:id="@+id/etCorporateEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/input_glass"
+            android:hint="dev@corp.key"
+            android:inputType="textEmailAddress"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/on_surface"
+            android:textColorHint="@color/outline_variant" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="MASTER PASSKEY"
+            android:textColor="@color/outline"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <EditText
+            android:id="@+id/etMasterPasskey"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/input_glass"
+            android:hint="••••••••"
+            android:inputType="textPassword"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/on_surface"
+            android:textColorHint="@color/outline_variant" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="CONFIRM PASSKEY"
+            android:textColor="@color/outline"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <EditText
+            android:id="@+id/etConfirmPasskey"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/input_glass"
+            android:hint="••••••••"
+            android:inputType="textPassword"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/on_surface"
+            android:textColorHint="@color/outline_variant" />
+
+        <CheckBox
+            android:id="@+id/cbTerms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="I acknowledge the Protocol Terms."
+            android:textColor="@color/on_surface"
+            android:buttonTint="@color/secondary" />
+
+        <Button
+            android:id="@+id/btnEstablishIdentity"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/btn_gradient"
+            android:text="ESTABLISH IDENTITY"
+            android:textColor="@color/background"
+            android:textStyle="bold"
+            android:backgroundTint="@null"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
+            android:padding="8dp"
+            android:text="ALREADY HAVE A KEY? LOGIN"
+            android:textColor="@color/outline"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+    </LinearLayout>
+</ScrollView>
