@@ -1,10 +1,10 @@
 package prime.prime_keystore;
 
+import android.app.Activity; // AppCompatActivity की जगह नार्मल Activity
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
-import com.primex.key.R; // <-- बस ये एक लाइन का जादू है!
+import com.primex.key.R;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
