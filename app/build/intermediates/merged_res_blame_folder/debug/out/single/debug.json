@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primex.key.app-merged_res-35:/font_space_grotesk.ttf.flat",
+        "source": "com.primex.key.app-main-37:/font/space_grotesk.ttf"
+    },
+    {
+        "merged": "com.primex.key.app-merged_res-35:/font_manrope.ttf.flat",
+        "source": "com.primex.key.app-main-37:/font/manrope.ttf"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/drawable_glass_card.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/drawable/glass_card.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/font_space_grotesk_family.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/font/space_grotesk_family.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/drawable_input_glass.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/drawable/input_glass.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/font_manrope_family.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/font/manrope_family.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-merged_res-35:/drawable_btn_gradient.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.7/com.primex.key.app-main-37:/drawable/btn_gradient.xml"
+    }
+]

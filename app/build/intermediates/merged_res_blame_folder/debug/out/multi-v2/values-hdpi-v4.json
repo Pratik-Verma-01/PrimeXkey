@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.primex.key.app-mergeDebugResources-33:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/transforms-4/74db7ea2fb5e0a1e45f42d9b0e1f0140/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

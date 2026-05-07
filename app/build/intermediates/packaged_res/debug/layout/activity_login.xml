@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginBottom="8dp"
+        android:text="Access\nCommand"
+        android:textColor="@color/on_surface"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/space_grotesk_family" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginBottom="32dp"
+        android:text="Connect to the encrypted lattice. Professional grade developer orchestration environment."
+        android:textColor="@color/outline"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/glass_card"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DEVELOPER ID (EMAIL)"
+            android:textColor="@color/outline"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <EditText
+            android:id="@+id/etDeveloperId"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/input_glass"
+            android:hint="dev@corp.key"
+            android:inputType="textEmailAddress"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/on_surface"
+            android:textColorHint="@color/outline_variant" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="ACCESS KEY (PASSWORD)"
+            android:textColor="@color/outline"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <EditText
+            android:id="@+id/etAccessKey"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/input_glass"
+            android:hint="••••••••"
+            android:inputType="textPassword"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textColor="@color/on_surface"
+            android:textColorHint="@color/outline_variant" />
+
+        <Button
+            android:id="@+id/btnInitialize"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/btn_gradient"
+            android:text="INITIALIZE SESSION"
+            android:textColor="@color/background"
+            android:textStyle="bold"
+            android:backgroundTint="@null"
+            android:fontFamily="@font/space_grotesk_family" />
+
+        <TextView
+            android:id="@+id/tvRequestAccess"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:padding="8dp"
+            android:text="REQUEST ACCESS / CREATE IDENTITY"
+            android:textColor="@color/outline"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/space_grotesk_family" />
+    </LinearLayout>
+</LinearLayout>
